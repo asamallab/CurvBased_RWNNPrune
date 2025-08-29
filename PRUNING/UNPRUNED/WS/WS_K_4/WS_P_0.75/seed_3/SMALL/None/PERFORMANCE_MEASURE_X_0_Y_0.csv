@@ -1,0 +1,2 @@
+"Threshold	TN	TP	FN	FP	TPR	TNR	FPR	FNR	Accuracy	Precision	Recall/Sensitivity	Specificity	F1-Score	Seed	Graph-Model	K-value	P-value"
+"0.1	2898.0	87.0	13.0	102.0	0.87	0.966	0.034	0.13	0.9629032258064516	0.4603174603174603	0.87	0.966	0.602076124567474	3	WS	4	0.75"
