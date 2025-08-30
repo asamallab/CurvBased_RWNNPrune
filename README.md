@@ -1,4 +1,4 @@
-# CurvBasedRWNNPrune
+# CurvBased_RWNNPrune
 
 ## About
 This repository contains the codes and data associated with the following manuscript: <br>
