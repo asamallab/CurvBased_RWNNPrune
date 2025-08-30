@@ -30,8 +30,8 @@ Contains all the necessary codes to reproduce the results in the manuscript.
 
 2. Data_prep.ipynb: Preprocess the raw chest X-ray images for training and testing. The code is implemented in Python and executed on <i>Google Colab</i>.
 
-3. Small_Regime_WS.ipynb: Main script for building Randomly Wired Neural Networks (RWNNs) using the Watts–Strogatz (WS) model.
-a.  Pruning is applied using three edge-based measures: Forman–Ricci curvature (FRC), Ollivier–Ricci curvature (ORC), and Edge Betweenness Centrality (EBC).
+3. Small_Regime_WS.ipynb: Main script for building Randomly Wired Neural Networks (RWNNs) using the Watts–Strogatz (WS) model. <br>
+a.  Pruning is applied using three edge-based measures: Forman–Ricci curvature (FRC), Ollivier–Ricci curvature (ORC), and Edge Betweenness Centrality (EBC). <br>
 b. By changing a parameter, the same code can also generate Erdős–Rényi (ER) and Barabási–Albert (BA) models. 
 The code is implemented in Python and executed on <i>Google Colab</i>.
 
