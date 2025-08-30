@@ -21,7 +21,7 @@ A case study with chest x-ray classification of COVID-19</i>](link of the articl
 2. git+git://github.com/sovrasov/flops-counter.pytorch.git@64d38fd47cb0795437056745c64a987d944c1885
 
 
-The repository contains five folders. A brief description of each is provided below.
+The repository contains four folders. A brief description of each is provided below.
 
 ## Codes
 Contains all the necessary codes to reproduce the results in the manuscript.
@@ -44,12 +44,6 @@ The code is implemented in Python and executed on <i>Google Colab</i>.
 
 ## Covid_data
 Contains the training (train) and testing (test) chest X-ray images of COVID-19. The data is downloaded from the [*COVID-XRay-5K*](https://github.com/shervinmin/DeepCovid) dataset.
-
-## PRUNING
-Contains two folders: UNPRUNED and PRUNED.
-
-1. UNPRUNED: Results before pruning 
-2. PRUNED: Results after pruning
 
 ## Outputs
 Contains all the necessary data to generate the figures in the manuscript.
