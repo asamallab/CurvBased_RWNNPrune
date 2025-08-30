@@ -49,7 +49,7 @@ Contains the training (train) and testing (test) chest X-ray images of COVID-19.
 Contains all the necessary data to generate the figures in the manuscript.
 
 ## Figures
-Contains all the figures present in the manuscript (can be generated as well from the given code)
+Contains all the figures present in the manuscript (can be generated as well from the given code).
 
 ## Citation
 In case you use the codes herein, please cite the following manuscript:
