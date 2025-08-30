@@ -32,7 +32,7 @@ Contains all the necessary codes to reproduce the results in the manuscript.
 
 3. Small_Regime_WS.ipynb: Main script for building Randomly Wired Neural Networks (RWNNs) using the Watts–Strogatz (WS) model. <br>
 a.  Pruning is applied using three edge-based measures: Forman–Ricci curvature (FRC), Ollivier–Ricci curvature (ORC), and Edge Betweenness Centrality (EBC). <br>
-b. By changing a parameter, the same code can also generate Erdős–Rényi (ER) and Barabási–Albert (BA) models. 
+b. By changing a parameter, the same code can also generate Erdős–Rényi (ER) and Barabási–Albert (BA) models. <br>
 The code is implemented in Python and executed on <i>Google Colab</i>.
 
 5. Plot_Before&AfterPrune.ipynb: Creates box plots for Accuracy, Specificity, Sensitivity, AUC-ROC, Precision, and F1-score (before vs. after pruning).
