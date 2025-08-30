@@ -1,3 +1,0 @@
-0	1	2	3	4	5	Seed	Graph-Model	K-value	P-value
-conv2_nodes	conv2_edges	conv3_nodes	conv3_edges	flops	params	3	WS	4	0.75
-16.0	32.0	32.0	64.0	2000141792.0	4219836.0	3	WS	4	0.75
