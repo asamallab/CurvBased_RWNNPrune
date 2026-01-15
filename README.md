@@ -4,7 +4,7 @@
 This repository contains the codes and data associated with the following manuscript: <br>
 
 Pavithra Elumalai#, Sudharsan Vijayaraghavan#, Madhumita Mondal*, and Areejit Samal*, [<i>Application of discrete Ricci curvature in pruning randomly wired neural networks: 
-A case study with chest x-ray classification of COVID-19</i>](link of the article). <br>
+A case study with chest x-ray classification of COVID-19</i>](https://iopscience.iop.org/article/10.1088/2632-072X/ae2cd8). <br>
 (# Equally contributed, * Corresponding authors)
 <br>
 
